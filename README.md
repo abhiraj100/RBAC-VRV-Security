@@ -2,7 +2,7 @@
 
 # Role-Based Access Control (RBAC) UI - Advanced Version
 
-# Deployed Link : https://rbac-vrv-securtiy.netlify.app/dashboard
+# Deployed Link : https://rbac-vrv-securtiy.netlify.app
 
 # Project Overview
 The advanced Role-Based Access Control (RBAC) UI project offers a highly scalable and secure frontend solution for managing users, roles, and permissions. It features an intuitive admin dashboard with dynamic role management, access control, and comprehensive CRUD functionality. The interface is built with React, leveraging modern technologies like TypeScript, Redux Toolkit, and Tailwind CSS for enhanced performance and user experience.
